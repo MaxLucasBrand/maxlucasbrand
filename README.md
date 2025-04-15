@@ -4,6 +4,7 @@
 - 🖥️ Foco em Back-end.
 - ⚙️ Acadêmico de Engenharia de Software.
 - 🏦 Atualmente estundando Python.
+- 📩 Contato: maxlucasbra@gmail.com
 ##
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,7 +19,6 @@
 ##
 
 <div> 
-  <a href = "mailto:maxlucasbra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/max-lucas-brand%C3%A3o-817932354/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
