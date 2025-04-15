@@ -5,10 +5,13 @@
 - ⚙️ Acadêmico de Engenharia de Software.
 - 🏦 Atualmente estundando Python.
 - 📩 Contato: maxlucasbra@gmail.com
-##
+## Hard Skills!
  <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+## GitHub Status
+
 <br>
 <div>
   <a href="https://github.com/MaxLucasBrand">
